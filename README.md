@@ -1,4 +1,4 @@
-![Logo do git](https://logos-download.com/wp-content/uploads/2021/01/Git_Logo-420x420.png)
+![Logo do git](https://i1.wp.com/blog.thescorpius.com/wp-content/uploads/2015/10/git-logo-2.png?resize=300%2C277)
 
 # site_portif-lio
 Este é um site de portifólio contendo HTML, CSS e javaScript.

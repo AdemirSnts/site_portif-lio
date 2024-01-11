@@ -9,9 +9,9 @@ Este é um portifólio contendo meus estudos sobre git e github do zero ao avan�
 * github avançado
 
 ## Etapas concluídas
--[x] Branches
--[x]git init, git clone, git add, git commit, git push
--[x]merge e github
+- [x] Branches.
+- [x] Git init, git clone, git add, git commit, git push.
+- [x] Merge e github.
 
 ### Tabela ficticia
 

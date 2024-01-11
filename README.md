@@ -5,7 +5,9 @@ Este é um site de portifólio contendo HTML, CSS e javaScript.
 
 ## Conteudos
 
-Curso Git e github do zero ao avançado
+* Curso Git e github do zero ao avançado
+* Aprendendo sobre branches
+* github avançado
 
 ## Redes sociais
 [Instagram](https://instagram.com/)
